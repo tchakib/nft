@@ -1,9 +1,0 @@
-{
-  "name": "DBZ NFT #10",
-  "description": "NFT #10 de la collection.",
-  "image": "https://raw.githubusercontent.com/tchakib/nft/main/dragon-ball/10.png",
-  "attributes": [
-    { "trait_type": "Rarity", "value": "Epic" }
-  ]
-}
-
