@@ -1,0 +1,9 @@
+{
+  "name": "DBZ NFT #9",
+  "description": "NFT #9 de la collection.",
+  "image": "https://raw.githubusercontent.com/tchakib/nft/main/dragon-ball/9.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Common" }
+  ]
+}
+
