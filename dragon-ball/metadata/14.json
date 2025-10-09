@@ -1,0 +1,9 @@
+{
+  "name": "DBZ NFT #14",
+  "description": "NFT #14 de la collection.",
+  "image": "https://raw.githubusercontent.com/tchakib/nft/main/dragon-ball/d694552fc8316162f7634c1f7c073d1e.png",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Common" }
+  ]
+}
+
