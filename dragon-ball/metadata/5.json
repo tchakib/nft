@@ -1,9 +1,0 @@
-{
-  "name": "DBZ NFT #6",
-  "description": "NFT #6 de la collection.",
-  "image": "https://raw.githubusercontent.com/tchakib/nft/main/dragon-ball/433527d3f9f65ff409ac8497741933d6.png",
-  "attributes": [
-    { "trait_type": "Rarity", "value": "Common" }
-  ]
-}
-

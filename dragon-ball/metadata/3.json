@@ -1,9 +1,0 @@
-{
-  "name": "DBZ NFT #3",
-  "description": "NFT #3 de la collection.",
-  "image": "https://raw.githubusercontent.com/tchakib/nft/main/dragon-ball/2bb59d30464157af637ce091466d917a.png",
-  "attributes": [
-    { "trait_type": "Rarity", "value": "Rare" }
-  ]
-}
-
