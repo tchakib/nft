@@ -1,7 +1,7 @@
 {
   "name": "DBZ NFT #1",
   "description": "NFT #1 de la collection de 15 pièces.",
-  "image": "https://raw.githubusercontent.com/tchakib/nft/main/dragon-ball/148b3d6c65e95acebb31a737f99f414d.png",
+  "image": "https://raw.githubusercontent.com/tchakib/nft/main/dragon-ball/1.png",
   "attributes": [
     { "trait_type": "Rarity", "value": "Common" }
   ]
