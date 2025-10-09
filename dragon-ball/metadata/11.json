@@ -1,7 +1,7 @@
 {
   "name": "DBZ NFT #11",
   "description": "NFT #11 de la collection.",
-  "image": "https://raw.githubusercontent.com/tchakib/nft/main/dragon-ball/7a8d820a04c0b1d0682804f731c2f8d3.png",
+  "image": "https://raw.githubusercontent.com/tchakib/nft/main/dragon-ball/11.png",
   "attributes": [
     { "trait_type": "Rarity", "value": "Common" }
   ]
